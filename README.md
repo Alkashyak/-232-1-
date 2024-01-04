@@ -49,4 +49,18 @@
 | [8. Уникальное число](./contest_03/08/main.go) | ![](./img/go.png) |
 | [9. Подходящая пара чисел](./contest_03/09/main.go) | ![](./img/go.png) |
 
+|[Контест 4](https://contest.yandex.ru/contest/54625/problems/) |  |
+| --- | :-: |
+| [1. Количество выполненных задач](./contest_04/01/main.go) | ![](./img/go.png) |
+| [2. Количество выполненных задач](./contest_04/02/main.cpp) |  ![](./img/cpp.png) |
+
+|[Контест 5](https://contest.yandex.ru/contest/55465/problems/) |  |
+| --- | :-: |
+| [1. Get a cat](./contest_05/01/main.cpp) | ![](./img/cpp.png) |
+| [2. Класс. Чайник](./contest_05/02/main.cpp) |  ![](./img/cpp.png) |
+| [3. Класс. Комплексное число](./contest_05/03/main.cpp) | ![](./img/cpp.png) |
+| [4. Класс. Point](./contest_05/04/main.cpp) | ![](./img/cpp.png) |
+| [6. Get a cat](./contest_05/06/main.go) | ![](./img/go.png) |
+| [7. Класс. Чайник](./contest_05/07/main.go) | ![](./img/go.png) |
+
 
