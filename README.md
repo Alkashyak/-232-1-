@@ -68,4 +68,23 @@
 | [1. Класс. Shape](./contest_06/01/main.cpp) | ![](./img/cpp.png) |
 | [2. Класс. Менеджер](./contest_06/02/main.cpp) |  ![](./img/cpp.png) |
 
+|[Контест 7](https://contest.yandex.ru/contest/56824/problems/) |  |
+| --- | :-: |
+| [1. Класс. RunnableСlock](./contest_07/01/main.cpp) | ![](./img/cpp.png) |
 
+|[Контест 8](https://contest.yandex.ru/contest/57296/problems/) |  |
+| --- | :-: |
+| [1. Никаких секретов](./contest_08/01/main.cpp) | ![](./img/cpp.png) |
+| [2. Уроборос](./contest_08/02/main.cpp) | ![](./img/cpp.png) |
+| [3. 1D массив + функции](./contest_08/03/main.cpp) | ![](./img/cpp.png) |
+| [4. 2D массив + функции](./contest_08/04/main.cpp) | ![](./img/cpp.png) |
+| [5. IntSharedPointer](./contest_08/05/main.cpp) | ![](./img/cpp.png) |
+| [6. Класс Any](./contest_08/06/main.cpp) | ![](./img/cpp.png) |
+| [7. Адаптер функций](./contest_08/07/main.cpp) | ![](./img/cpp.png) |
+| [8. Стратегия печати](./contest_08/08/main.cpp) | ![](./img/cpp.png) |
+| [9. Композит](./contest_08/09/main.cpp) | ![](./img/cpp.png) |
+| [10. Какой тип](./contest_08/10/main.go) | ![](./img/go.png)  |
+| [11. Класс. Матрица](./contest_08/11/main.go) | ![](./img/go.png)  |
+| [12. Класс. Стек](./contest_08/12/main.go) | ![](./img/go.png)  |
+| [13. Pizza Builder](./contest_08/13/main.go) | ![](./img/go.png)  |
+| [14. Битва ботов](./contest_08/14/main.go) | ![](./img/go.png)  |
