@@ -38,3 +38,15 @@
 | [11. Функция. Валидатор судоку](./contest_02/11/main.go) | ![](./img/go.png) |
 | [12. Функция. Сапёр (поле)](./contest_02/12/main.go) | ![](./img/go.png) |
 
+|[Контест 3](https://contest.yandex.ru/contest/53504/problems/) |  |
+| --- | :-: |
+| [1. Объединить отсортированные последовательности](./contest_03/01/main.cpp) | ![](./img/cpp.png) |
+| [2. Валидатор скобочной последовательности](./contest_03/02/main.cpp) |  ![](./img/cpp.png) |
+| [4. Общие слова в последовательностях](./contest_03/04/main.cpp) | ![](./img/cpp.png) |
+| [5. Самое частое слово](./contest_03/05/main.cpp) | ![](./img/cpp.png) |
+| [6. Баланс пользователя](./contest_03/06/main.cpp) | ![](./img/cpp.png) |
+| [7. Какое следующее слово](./contest_03/07/main.cpp) | ![](./img/cpp.png) |
+| [8. Уникальное число](./contest_03/08/main.go) | ![](./img/go.png) |
+| [9. Подходящая пара чисел](./contest_03/09/main.go) | ![](./img/go.png) |
+
+
