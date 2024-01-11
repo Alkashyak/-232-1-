@@ -89,6 +89,6 @@
 | [13. Pizza Builder](./contest_08/13/main.go) | ![](./img/go.png)  |
 | [14. Битва ботов](./contest_08/14/main.go) | ![](./img/go.png)  |
 
-|[ПРОЕКТЫ] |  |
+|[ПРОЕКТЫ](https://vladimirchabanov.notion.site/vladimirchabanov/1-4f52147cb0724f9980a2582bcb7027ca) |  |
 | --- | :-: |
 | [ПРОЕКТ 1. Телеграм бот.](./PROJECTS/project-1/botik.go) | ![](./img/go.png) |
