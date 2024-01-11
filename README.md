@@ -88,3 +88,7 @@
 | [12. Класс. Стек](./contest_08/12/main.go) | ![](./img/go.png)  |
 | [13. Pizza Builder](./contest_08/13/main.go) | ![](./img/go.png)  |
 | [14. Битва ботов](./contest_08/14/main.go) | ![](./img/go.png)  |
+
+|[ПРОЕКТЫ] |  |
+| --- | :-: |
+| [ПРОЕКТ 1. Телеграм бот.](./PROJECTS/project-1/botik.go) | ![](./img/go.png) |
