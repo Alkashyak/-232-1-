@@ -91,4 +91,4 @@
 
 |[ПРОЕКТЫ](https://vladimirchabanov.notion.site/vladimirchabanov/1-4f52147cb0724f9980a2582bcb7027ca) |  |
 | --- | :-: |
-| [ПРОЕКТ 1. Телеграм бот.](./PROJECTS/project-1/botik.go) | ![](./img/go.png) |
+| [ПРОЕКТ 1. Телеграм бот.](./PROJECTS/project-1/main.go) | ![](./img/go.png) |
